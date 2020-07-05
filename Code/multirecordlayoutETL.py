@@ -179,11 +179,11 @@ def fn_AccountSaleFile_Header (sept):
     SalesLineRecord = sept.join(SalesLine)  
     SalesLine.clear()
     return(SalesLineRecord)
-AcctSaleFile = open("C:\FixedWidthMultipleLayout\OutputFiles\\SaleAcct.txt", "w")
-DeptSaleFile = open("C:\FixedWidthMultipleLayout\OutputFiles\\SaleDepartment.txt", "w")
-ItemSaleFile = open("C:\FixedWidthMultipleLayout\OutputFiles\\SaleItem.txt", "w")
-SummarySaleFile = open("C:\FixedWidthMultipleLayout\OutputFiles\\SaleSummary.txt", "w")
-HeaderSaleFile = open("C:\FixedWidthMultipleLayout\OutputFiles\\SaleHeader.txt", "w")
+AcctSaleFile = open("C:\dtmultirfmt\OutputFiles\\SaleAcct.txt", "w")
+DeptSaleFile = open("C:\dtmultirfmt\OutputFiles\\SaleDepartment.txt", "w")
+ItemSaleFile = open("C:\dtmultirfmt\OutputFiles\\SaleItem.txt", "w")
+SummarySaleFile = open("C:\dtmultirfmt\OutputFiles\\SaleSummary.txt", "w")
+HeaderSaleFile = open("C:\dtmultirfmt\OutputFiles\\SaleHeader.txt", "w")
 sept = "|"
 ### Create Header records in output file by sep.
 AcctSaleFile.write(fn_AccountSaleFile_Header(sept)+ '\n')
@@ -193,7 +193,7 @@ SummarySaleFile.write(fn_SummarySaleFile_Header(sept)+ '\n')
 HeaderSaleFile.write(fn_HeaderSaleFile_Header(sept)+ '\n')
 
 #For each record find type of records. Process each type of record
-for fileName in glob.glob('C:\FixedWidthMultipleLayout\InputFiles\s*.txt'):
+for fileName in glob.glob('C:\dtmultirfmt\InputFiles\s*.txt'):
     #print(fileName)
     Salesfile = open(fileName) 
     #### Read the file and process data
@@ -228,11 +228,11 @@ SummarySaleFile.close()
 HeaderSaleFile.close()
 
 #Read the above created files panda  DF to load sql server
-dfSaleAcct = pd.read_csv('C:\FixedWidthMultipleLayout\OutputFiles\\SaleAcct.txt', sep="|")
-dfSaleDepartment = pd.read_csv('C:\FixedWidthMultipleLayout\OutputFiles\\SaleDepartment.txt', sep="|") 
-dfSaleItem = pd.read_csv('C:\FixedWidthMultipleLayout\OutputFiles\\SaleItem.txt', sep="|")
-dfSaleSummary = pd.read_csv('C:\FixedWidthMultipleLayout\OutputFiles\\SaleSummary.txt', sep="|")
-dfSaleHeader = pd.read_csv('C:\FixedWidthMultipleLayout\OutputFiles\\SaleHeader.txt', sep="|")
+dfSaleAcct = pd.read_csv('C:\dtmultirfmt\OutputFiles\\SaleAcct.txt', sep="|")
+dfSaleDepartment = pd.read_csv('C:\dtmultirfmt\OutputFiles\\SaleDepartment.txt', sep="|") 
+dfSaleItem = pd.read_csv('C:\dtmultirfmt\OutputFiles\\SaleItem.txt', sep="|")
+dfSaleSummary = pd.read_csv('C:\dtmultirfmt\OutputFiles\\SaleSummary.txt', sep="|")
+dfSaleHeader = pd.read_csv('C:\dtmultirfmt\OutputFiles\\SaleHeader.txt', sep="|")
 ## Add the current date to dataframe to write to SQL table
 dfSaleAcct['CreateDate'] = pd.to_datetime('now')
 dfSaleDepartment['CreateDate'] = pd.to_datetime('now')
