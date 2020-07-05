@@ -1,0 +1,4 @@
+FileName|RecordName|RecordCount
+C:\FixedWidthMultipleLayout\InputFiles\sales.txt|Department|11
+C:\FixedWidthMultipleLayout\InputFiles\sales.txt|Item|9
+C:\FixedWidthMultipleLayout\InputFiles\sales.txt|AcctSale|91

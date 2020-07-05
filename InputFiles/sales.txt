@@ -1,0 +1,118 @@
+Header     07/3/2020 123
+AcctSale    16524  01  10/17/2012  3930621977   TXNPUES                    S1   Yes RHMXWPCP  Yes          5007.10    50
+AcctSale   191675  01  01/14/2013  2368183100   OUNHQEX XUFQONY            S1   No            Yes         43537.00
+AcctSale   191667  01  01/14/2013  3714468136   GHAKASC QHJXDFM            S1   Yes           Yes          3172.53
+AcctSale   191673  01  01/14/2013  2632703881   PAHFSAP LUVIKXZ            S1   No            Yes           983.21
+AcctSale    80495  01  11/21/2012  2766389794   XDZANTV                    S1   Yes TGZGMOXG  Yes           903.78
+AcctSale    80507  01  11/21/2012  4609266335   BWWYEZL                    S1   Yes USUKVMZO  Yes           670.31
+AcctSale    80509  01  11/21/2012  1092717420   QJYPKVO                    S1   No  DNUNTASS  Yes           848.50
+AcctSale    80497  01  11/21/2012  3386366766   SOQLCMU                    S1   Yes BRHUMGJR  Yes             7.31
+AcctSale   191669  01  01/14/2013  5905893739   FYIWNKA QUAFDKD            S1   Yes           Yes          9167.93
+AcctSale   191671  01  01/14/2013  2749355876   CBMJTLP NGFSEIS            S1   Yes           Yes           746.70
+AcctSale   191674  01  01/14/2013  4530359106   OTAVZGH ZUQFISZ            S5   Yes           No           7035.74
+AcctSale   244819  01  02/04/2013  4679391677   EGHLQTI ABE                S1   Yes           No          89947.13     1000
+AcctSale    96062  01  11/30/2012  5996493062   KTSVTADFF EHEHFMX          S1   Yes UBNQLRCC  Yes             7.10
+AcctSale    16527  01  10/17/2012  5595769375   ILCVJYC                    S1   Yes HCVZOUMY  Yes           321.19
+AcctSale   191670  01  01/14/2013  1948028853   RPPDCWC UWODNIO            S1   Yes           No           9293.80
+AcctSale   191672  01  01/14/2013  4938823703   CTMDXXP HXOXVFF            S7   Yes           No            175.00
+AcctSale   191668  01  01/14/2013  4207018603   DBZZULF QGDZQMD            S1   Yes           Yes           206.26
+AcctSale   201442  02  01/16/2013  5339093153   KIP MAJ                    S1   Yes           Yes          6030.75
+AcctSale   201444  02  01/16/2013  4189184779   NFR MMP                    S1   Yes           Yes         41790.07
+AcctSale   201448  02  01/16/2013  3370491102   FIU ZVR                    S1   Yes           No          54044.56
+AcctSale   201446  02  01/16/2013  4586422636   EJH ZMT                    S1   Yes           Yes           678.69
+AcctSale   201451  02  01/16/2013  1425533033   JWS ZCI                    S1   Yes           Yes          0278.28
+AcctSale   201452  02  01/16/2013  5191302470   TMQ GMU                    S1   Yes           Yes        666195.93
+AcctSale   201454  02  01/16/2013  2155845833   HCP DNV                    S1   Yes           Yes        820262.25
+AcctSale   201456  02  01/16/2013  1250064928   VMO AWH                    S7   No            Yes         25478.89
+AcctSale   201458  02  01/16/2013  2384080804   TGE XGG                    S7   No            Yes        788684.67
+AcctSale   201460  02  01/16/2013  1606678185   KRS BRK                    S1   Yes           Yes         71058.47
+AcctSale   201464  02  01/16/2013  3363129639   FHA AKO                    S1   No            Yes         16947.59
+AcctSale   201462  02  01/16/2013  4719124808   QGU UIO                    S1   No            Yes            81.53
+AcctSale   201466  02  01/16/2013  5444141687   NKC DSF                    S1   No            Yes         68968.66
+AcctSale   201468  02  01/16/2013  3596453934   AAC PZU                    S1   Yes           Yes        366362.63
+AcctSale   201470  02  01/16/2013  5658191939   FMF EWO                    S1   Yes           Yes        341992.68
+AcctSale   201472  02  01/16/2013  2670215222   GPE PYM                    S1   Yes           Yes          6766.96
+AcctSale   201474  02  01/16/2013  5157395529   APR WCM                    S1   Yes           No            487.43
+AcctSale   201476  02  01/16/2013  1294323461   KCD VMP                    S1   No            Yes          7493.60
+AcctSale   201478  02  01/16/2013  2398412695   ONP HQT                    S1   No            Yes           718.97
+AcctSale   201480  02  01/16/2013  5955295141   RQF BYJ                    S1   Yes           No         405319.75
+AcctSale   201484  02  01/16/2013  2024774889   RHN LFP                    S1   Yes           Yes        502615.75
+AcctSale   201617  02  01/16/2013  1148505273   RSJ ZPR                    S1   Yes           No           5277.11
+AcctSale    68944  02  11/14/2012  1592175803   YPVMQHO                    S1   No  KOBUEPIG  Yes          1332.58
+AcctSale   191684  02  01/14/2013  5085986818   TOENLKI IKUQGHJ            S1   Yes           Yes          4277.50
+AcctSale   201482  02  01/16/2013  4980117019   MNY BXQ                    S1   Yes           No         119596.24
+AcctSale   201486  02  01/16/2013  1675964576   TUW FZU                    S1   No            Yes           204.44
+AcctSale   201488  02  01/16/2013  4070447707   QVY WVI                    S1   Yes           Yes         97248.32
+AcctSale   201492  02  01/16/2013  5901784648   BEM TNG                    S1   No            Yes            96.28
+AcctSale   202906  02  01/17/2013  4705202419   GHC EZC                    S1   Yes           Yes            09.96
+AcctSale   191676  02  01/14/2013  1656268173   YLEOJSF ILJUCZQ            S1   Yes           Yes          9436.88
+AcctSale   201490  02  01/16/2013  3555076584   RRA FHY                    S1   Yes           Yes           393.74
+AcctSale   201495  02  01/16/2013  1994042408   NLD YIJ                    S1   Yes           Yes           446.15
+AcctSale   201496  02  01/16/2013  1816184060   WGK ALF                    S1   Yes           Yes           304.57
+AcctSale   201499  02  01/16/2013  2726425901   QQN LFZ                    S1   Yes           Yes            86.01
+AcctSale   201500  02  01/16/2013  2004263975   RKT BQB                    S1   Yes           Yes          3186.98
+AcctSale   201502  02  01/16/2013  4864189690   QUV NJT                    S1   No            Yes          1157.72
+AcctSale   201504  02  01/16/2013  4582712143   QAW JJM                    S1   Yes           No           3648.62
+AcctSale   201506  02  01/16/2013  2062107155   KZN KTI                    S1   Yes           No           5613.88
+AcctSale   201508  02  01/16/2013  5353783999   MJL JSW                    S1   No            Yes          1509.70
+AcctSale   201510  02  01/16/2013  4961873358   EVB YAE                    S1   Yes           Yes           107.54
+AcctSale   201512  02  01/16/2013  4933832108   SQL QNY                    S1   Yes           Yes          7614.96
+AcctSale   297571  02  02/26/2013  4852971285   EEO LAEUZ                  S1   No            Yes          1824.37
+AcctSale   201514  02  01/16/2013  3517474593   SFH YIJ                    S1   No            Yes          6939.49
+AcctSale   201516  02  01/16/2013  1650585504   FVJ EDJ                    S1   No            Yes         25180.59
+AcctSale   201518  02  01/16/2013  5059829559   JCI HIL                    S1   No            Yes        317738.41
+AcctSale   202882  02  01/17/2013  3184536751   TIV JPK                    S1   No            Yes         57711.04
+AcctSale   201522  02  01/16/2013  4329447393   MWL CYD                    S1   No            Yes         89204.35
+AcctSale   202884  02  01/17/2013  5570531576   AZV UNU                    S1   Yes           Yes         50454.20
+AcctSale   191682  02  01/14/2013  1820672461   GCKOZFG TMSCKBQ            S1   Yes           Yes           511.83
+AcctSale   201520  02  01/16/2013  4140099655   LBQ NZN                    S1   Yes           Yes         30320.51
+AcctSale   201524  02  01/16/2013  5589444439   NVR LIH                    S1   Yes           Yes          8233.61
+AcctSale   201526  02  01/16/2013  4746903212   LNM SPJ                    S1   Yes           Yes           389.10
+AcctSale   201528  02  01/16/2013  5674799509   ECQ YAW                    S1   Yes           Yes         59322.30
+AcctSale   201530  02  01/16/2013  3619009221   NZI VQO                    S1   Yes           No              9.55
+AcctSale   201532  02  01/16/2013  1731849384   BHA KIM                    S1   Yes           Yes         14416.68
+AcctSale   201536  02  01/16/2013  4571753309   KZD OML                    S1   No            Yes          8894.55
+AcctSale   201534  02  01/16/2013  3009486640   OTH WLA                    S1   Yes           Yes            12.71
+AcctSale   201538  02  01/16/2013  3484349949   TUN NTN                    S1   Yes           Yes            10.53
+AcctSale   201540  02  01/16/2013  2447554338   IXX QDQ                    S1   Yes           Yes          2094.16
+AcctSale   201544  02  01/16/2013  5720075203   YYI SAT                    S1   No            No           4649.14
+AcctSale   201542  02  01/16/2013  4328000106   ZOR NHF                    S1   Yes           Yes            63.29
+AcctSale   201546  02  01/16/2013  2343476904   IVB ACD                    S1   Yes           Yes        399731.28
+AcctSale   201548  02  01/16/2013  4819464989   IQL PIZ                    S1   No            Yes        598216.89
+AcctSale   201552  02  01/16/2013  3483562951   YYM RRE                    S1   Yes           Yes          7223.20
+AcctSale   201550  02  01/16/2013  1796152645   DNN MTW                    S1   Yes           Yes         88025.51
+AcctSale   201554  02  01/16/2013  5645509504   TSB XSI                    S1   No            Yes            99.76
+AcctSale   201556  02  01/16/2013  2252988184   IRD ARC                    S1   No            Yes          2705.24
+AcctSale   201562  02  01/16/2013  5030639913   KTK GBS                    S1   Yes           No          86870.21
+AcctSale   202886  02  01/17/2013  4589654367   WAY PHP                    S1   No            No            652.21
+AcctSale   201566  02  01/16/2013  3923850182   RJW EVH                    S1   Yes           Yes           675.38
+AcctSale   201564  02  01/16/2013  4005543986   WMQ VIR                    S1   Yes           Yes           682.39
+AcctSale   201568  02  01/16/2013  2196234980   THA MAS                    S1   Yes           Yes          3610.93
+AcctSale   201570  02  01/16/2013  3317853286   JOF ZPH                    S1   No            Yes         92762.79
+AcctSale   201576  02  01/16/2013  4783891770   BXC YZM                    S1   Yes           Yes         15916.03
+AcctSale   191678  02  01/14/2013  3228123970   RTVIOTA JSUMMGT            S1   Yes           Yes          6738.16 
+Department  16524  10/17/2012 Yes          5007.10   
+Department 191675  01/14/2013 Yes         43537.00   
+Department 191667  01/14/2013 Yes          3172.53                       
+Department 191673  01/14/2013 Yes           983.21                       
+Department  80495  11/21/2012 Yes           903.78  
+Department  80507  11/21/2012 Yes           670.31  
+Department  80509  11/21/2012 Yes           848.50  
+Department  80497  11/21/2012 Yes             7.31  
+Department 191669  01/14/2013 Yes          9167.93                       
+Department 191671  01/14/2013 Yes           746.70                       
+Department 191674  01/14/2013 No           7035.74                       
+Department 244819  02/04/2013 No          89947.13 
+Item       8b88ff60-bbb5-4330-819c-fbf40ff846cc  456
+Item       cc6aadd4-264a-4bc5-bf5c-3596b6824d3c  456879
+Item       b1076ab4-265c-48ab-91ae-bc8206a56abc  123
+Item       b530c522-066c-4e40-af96-9c4d86c60c22  34534
+Item       7cfde050-0ec4-4509-ae5d-7df34136526b  4354
+Item       c2b27b86-ed39-451c-a678-b689c0a89005  43647
+Item       cc75c689-bf94-4926-b446-be67c13c283d  123
+Item       974b916d-637e-4e09-b90c-62ef505382e0  1234
+Item       34d1506f-b4e0-4586-8c32-691a4e7b6182  567
+Item       2bfd13e1-f49a-42b5-8057-9ea668d4731b  5647
+Summary    Department   11
+Summary    Item         9
+Summary    AcctSale     91

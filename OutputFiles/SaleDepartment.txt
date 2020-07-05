@@ -1,0 +1,13 @@
+FileName|EntryType|PostDate|Posted|NetSales
+C:\FixedWidthMultipleLayout\InputFiles\sales.txt|16524|10/17/2012|Yes|5007.10
+C:\FixedWidthMultipleLayout\InputFiles\sales.txt|191675|01/14/2013|Yes|43537.00
+C:\FixedWidthMultipleLayout\InputFiles\sales.txt|191667|01/14/2013|Yes|3172.53
+C:\FixedWidthMultipleLayout\InputFiles\sales.txt|191673|01/14/2013|Yes|983.21
+C:\FixedWidthMultipleLayout\InputFiles\sales.txt|80495|11/21/2012|Yes|903.78
+C:\FixedWidthMultipleLayout\InputFiles\sales.txt|80507|11/21/2012|Yes|670.31
+C:\FixedWidthMultipleLayout\InputFiles\sales.txt|80509|11/21/2012|Yes|848.50
+C:\FixedWidthMultipleLayout\InputFiles\sales.txt|80497|11/21/2012|Yes|7.31
+C:\FixedWidthMultipleLayout\InputFiles\sales.txt|191669|01/14/2013|Yes|9167.93
+C:\FixedWidthMultipleLayout\InputFiles\sales.txt|191671|01/14/2013|Yes|746.70
+C:\FixedWidthMultipleLayout\InputFiles\sales.txt|191674|01/14/2013|No|7035.74
+C:\FixedWidthMultipleLayout\InputFiles\sales.txt|244819|02/04/2013|No|89947.13

@@ -1,0 +1,11 @@
+FileName|ItemID|NetAvailableUnitsForSale
+C:\FixedWidthMultipleLayout\InputFiles\sales.txt|8b88ff60-bbb5-4330-819c-fbf40ff846cc|56
+C:\FixedWidthMultipleLayout\InputFiles\sales.txt|cc6aadd4-264a-4bc5-bf5c-3596b6824d3c|56879
+C:\FixedWidthMultipleLayout\InputFiles\sales.txt|b1076ab4-265c-48ab-91ae-bc8206a56abc|23
+C:\FixedWidthMultipleLayout\InputFiles\sales.txt|b530c522-066c-4e40-af96-9c4d86c60c22|4534
+C:\FixedWidthMultipleLayout\InputFiles\sales.txt|7cfde050-0ec4-4509-ae5d-7df34136526b|354
+C:\FixedWidthMultipleLayout\InputFiles\sales.txt|c2b27b86-ed39-451c-a678-b689c0a89005|3647
+C:\FixedWidthMultipleLayout\InputFiles\sales.txt|cc75c689-bf94-4926-b446-be67c13c283d|23
+C:\FixedWidthMultipleLayout\InputFiles\sales.txt|974b916d-637e-4e09-b90c-62ef505382e0|234
+C:\FixedWidthMultipleLayout\InputFiles\sales.txt|34d1506f-b4e0-4586-8c32-691a4e7b6182|67
+C:\FixedWidthMultipleLayout\InputFiles\sales.txt|2bfd13e1-f49a-42b5-8057-9ea668d4731b|647
