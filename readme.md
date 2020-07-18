@@ -1,4 +1,4 @@
-# Ingest data from single source file containing multiple record layout
+# (ETL) Ingest data from single source file containing multiple record layout
 ## dtmultirfmt : dt - Data  |  multirfmt - Multiple record format
 <ul>
 <li>Python code reads one source file with multiple fixed width records</li>
